@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "titulo": "Setúbal e o tráfico transatlântico de pessoas escravizadas",
+    "imagem": "assets/images/image_1.png",
+    "description": "Casa da alfândega",
+    "subdescription": "(atual Biblioteca Municipal, av. Luísa Todi/rua da Velha Alfândega)",
+    "information": "Venenatis ipsum eu metus dapibus scelerisque. Suspendisse id suscipit ipsum. Maecenas eget lorem urna. Aliquam accumsan scelerisque nisl ac ullamcorper. Aenean condimentum erat quis urna consequat, in dictum ante dignissim. Sed orci ipsum, congue sit amet porttitor ut, sodales vel justo.",
+    "audio":"assets/audios/ponto_1_PT.mp3"
+  },
+  {
+    "id": 2,
+    "titulo": "Conversões geopolíticas – Um príncipe wolof",
+    "imagem": "assets/images/image_2.png",
+    "description": "NaN",
+    "subdescription": "NaN",
+    "information": "NaN",
+    "audio":"assets/audios/ponto_2_PT.mp3"
+  },
+  {
+    "id": 3,
+    "titulo": "A diversidade de profissões e posições na população escravizada – As aguadeiras",
+    "imagem": "assets/images/image_3.png",
+    "description": "NaN",
+    "subdescription": "NaN",
+    "information": "NaN",
+    "audio":"assets/audios/ponto_3_PT.mp3"
+  },
+  {
+    "id": 4,
+    "titulo": "A diversidade de profissões e posições na população escravizada – Os operários",
+    "imagem": "assets/images/image_4.png",
+    "description": "NaN",
+    "subdescription": "NaN",
+    "information": "NaN",
+    "audio":"assets/audios/ponto_4_PT.mp3"
+  },
+  {
+    "id": 5,
+    "titulo": "Santos negros, Confrarias e Irmandades negras em Setúbal",
+    "imagem": "assets/images/image_5.png",
+    "description": "NaN",
+    "subdescription": "NaN",
+    "information": "NaN",
+    "audio":"assets/audios/ponto_5_PT.mp3"
+  },
+  {
+    "id": 6,
+    "titulo": "O negro nas representações de artistas setubalenses – Bocage",
+    "imagem": "assets/images/image_6.png",
+    "description": "NaN",
+    "subdescription": "NaN",
+    "information": "NaN",
+    "audio":"assets/audios/ponto_6_PT.mp3"
+  },
+  {
+    "id": 7,
+    "titulo": "O poder legislativo e a construção do Racismo – Pelourinho",
+    "imagem": "assets/images/image_7.png",
+    "description": "NaN",
+    "subdescription": "NaN",
+    "information": "NaN",
+    "audio":"assets/audios/ponto_7_PT.mp3"
+  },
+  {
+    "id": 8,
+    "titulo": "O negro nas representações de artistas – Oficina de Jorge Afonso",
+    "imagem": "assets/images/image_8.png",
+    "description": "NaN",
+    "subdescription": "NaN",
+    "information": "NaN",
+    "audio":"assets/audios/ponto_8_PT.mp3"
+  },
+  {
+    "id": 9,
+    "titulo": "O negro nas representações de artistas setubalenses – Morgado de Setúbal",
+    "imagem": "assets/images/image_9.png",
+    "description": "NaN",
+    "subdescription": "NaN",
+    "information": "NaN",
+    "audio":"assets/audios/ponto_9_PT.mp3"
+  }
+]
