@@ -1,0 +1,81 @@
+{
+  "hero": {
+    "botao": "Começar Visita",
+    "descricao": "Para uma experiência mais imersiva, aconselhamos a utilização de auscultadores."
+  },
+  "header":{
+    "fechar":"Fechar"
+  },
+  "feedback":{
+    "opiniao": "Opinião",
+    "descricao": "Integer venenatis ipsum eu metus dapibus scelerisque.",
+    "texto":"Integer venenatis ipsum eu metus dapibus scelerisque. Suspendisse id suscipit ipsum. Maecenas eget lorem urna. Aliquam accumsan scelerisque nisl ac ullamcorper. Aenean condimentum erat quis urna consequat, in dictum ante dignissim. Sed orci ipsum, congue sit amet porttitor ut, sodales vel justo. Phasellus auctor tellus sapien, vel egestas ligula luctus eget. Maecenas eget scelerisque arcu, id tincidunt nibh."
+  },
+  "about": {
+    "descricao": "Venenatis ipsum eu metus dapibus scelerisque. Suspendisse id suscipit ipsum. Maecenas eget lorem urna. Aliquam accumsan scelerisque nisl ac ullamcorper. Aenean condimentum erat quis urna consequat, in dictum ante dignissim. Sed orci ipsum , congue sit amet porttitor ut, sodales vel justo.",
+    "botao": "Começar Visita"
+  },
+  "aboutText": {
+    "sobre": "Sobre",
+    "titulo": "Integer venenatis ipsum eu metus dapibus scelerisque.",
+    "descricao": "Integer venenatis ipsum eu metus dapibus scelerisque. Suspendisse id suscipit ipsum. Maecenas eget lorem urna. Aliquam accumsan scelerisque nisl ac ullamcorper. Aenean condimentum erat quis urna consequat, in dictum ante dignissim. Sed orci ipsum, congue sit amet porttitor ut, sodales vel justo. Phasellus auctor tellus sapien, vel egestas ligula luctus eget. Maecenas eget scelerisque arcu, id tincidunt nibh.",
+    "folheto": "Folheto",
+    "artigo": "Artigo",
+    "capitulo": "Capítulo"
+  },
+  "gridSection": {
+    "text":"Integer venenatis ipsum eu metus dapibus scelerisque. Suspendisse id suscipit ipsum. Maecenas eget lorem urna. Aliquam accumsan scelerisque nisl ac ullamcorper.",
+    "anterior": "Anterior",
+    "proximo": "Próximo",
+    "de": "de"
+  },
+  "form":{
+    "escala":"Numa escala de 1 a 5, quanto este roteiro te fez refletir sobre a diversidade étnico-racial das tuas próprias origens?",
+    "comentario":"Deixa um comentário ou sugestão que queiras fazer:",
+    "submeter":"Submeter"
+  },
+  "popup":{
+    "opiniao":"A tua opinião foi submetida com sucesso!",
+    "obrigado":"Muito Obrigado!",
+    "fechar":"Fechar"
+  },
+  "infoCard": {
+    "pontoAnterior": "Ponto anterior",
+    "proximoPonto": "Próximo Ponto",
+    "anterior": "Anterior",
+    "proximo": "Próximo",
+    "versaoExplicita": "Versão Explícita"
+  },
+  "credits": {
+    "titulo": "Créditos",
+    "dataPublicacao": "Data de publicação",
+    "dataValor": "21 de março de 2026 - Dia Internacional para a Eliminação da Discriminação Racial",
+    "items": [
+      { "label": "Título", "valor": "Setúbal Negra" },
+      { "label": "Tema", "valor": "A Presença Negra na Cidade de Setúbal (Séc. XV–XVIII)" },
+      { "label": "Autoria e coordenação", "valor": "Ana Alcântara, Cristina Roldão, Nuno Coelho, Rafaela Rodrigues" },
+      { "label": "Narração principal", "valor": "Raquel Lima" },
+      { "label": "Narração secundária", "valor": "Emanuel Botelho" },
+      { "label": "Participação especial", "valor": "Mammadou Ba" },
+      { "label": "Autoria das músicas", "valor": "Nome #1, Nome #2, Nome #3, Nome #4, Nome #5, Nome #6, Nome #7, Nome #8, Nome #9" },
+      { "label": "Pesquisa", "valor": "Ana Alcântara e Cristina Roldão" },
+      { "label": "Guião", "valor": "Nuno Coelho" },
+      { "label": "Design", "valor": "Rafaela Rodrigues" },
+      { "label": "Programação", "valor": "Pedro Rodrigues" },
+      { "label": "Produção", "valor": "Associação Cultural RAMPA" },
+      { "label": "Parceria", "valor": "Escola Superior de Educação do Instituto Politécnico de Setúbal (ESE/IPS)" },
+      { "label": "Propriedade", "valor": "Município de Setúbal" },
+      { "label": "Agradecimentos", "valor": "Nome, Nome, Nome" }
+    ]
+  },
+  "footer": {
+    "termos": "Termos e Condições",
+    "privacidade": "Políticas de Privacidade",
+    "cookies": "Políticas de Cookies",
+    "nav": {
+      "about": "Sobre",
+      "credits": "Créditos",
+      "feedback": "Opinião"
+    }
+  }
+}

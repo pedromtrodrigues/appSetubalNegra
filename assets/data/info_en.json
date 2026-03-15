@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "point" : "Point 1",
+    "titulo": "Setúbal and the transatlantic slave trade",
+    "imagem": "assets/images/home/image_1.webp",
+    "imagem_info": ["assets/images/info/image_1.webp"],
+    "description": "Nan",
+    "subdescription": "Nan",
+    "information": "Nan",
+    "audio":"assets/audios/ponto_1_EN.mp3"
+  },
+  {
+    "id": 2,
+    "point" : "Point 2",
+    "titulo": "Geopolitical shifts – A Wolof prince",
+    "imagem": "assets/images/home/image_2.webp",
+    "imagem_info":["assets/images/info/image_2.webp"],
+    "description": "NaN",
+    "subdescription": "NaN",
+    "information": "NaN",
+    "audio":"assets/audios/ponto_2_EN.mp3"
+  },
+  {
+    "id": 3,
+    "point" : "Point 3",
+    "titulo": "The diversity of occupations and roles within the enslaved population – The water-carriers",
+    "imagem": "assets/images/home/image_3.webp",
+    "imagem_info":[
+      "assets/images/info/point_3/image_1.webp",
+      "assets/images/info/point_3/image_2.webp",
+      "assets/images/info/point_3/image_3.webp"
+    ],
+    "description": "NaN",
+    "subdescription": "NaN",
+    "information": "NaN",
+    "audio":"assets/audios/ponto_3_EN.mp3"
+  },
+  {
+    "id": 4,
+    "point" : "Point 4",
+    "titulo": "The diversity of occupations and social positions within the enslaved population – The labourers",
+    "imagem": "assets/images/home/image_4.webp",
+    "imagem_info":["assets/images/info/image_4.webp"],
+    "description": "NaN",
+    "subdescription": "NaN",
+    "information": "NaN",
+    "audio":"assets/audios/ponto_4_EN.mp3"
+  },
+  {
+    "id": 5,
+    "point" : "Point 5",
+    "titulo": "Black saints, brotherhoods and confraternities in Setúbal",
+    "imagem": "assets/images/home/image_5.webp",
+    "imagem_info":[
+      "assets/images/info/point_5/image_1.webp",
+      "assets/images/info/point_5/image_2.webp"
+    ],
+    "description": "NaN",
+    "subdescription": "NaN",
+    "information": "NaN",
+    "audio":"assets/audios/ponto_5_EN.mp3"
+  },
+  {
+    "id": 6,
+    "point" : "Point 6",
+    "titulo": "Black people in the works of artists from Setúbal – Bocage",
+    "imagem": "assets/images/home/image_6.webp",
+    "imagem_info":[
+      "assets/images/info/point_6/image_1.webp",
+      "assets/images/info/point_6/image_2.webp"
+    ],
+    "description": "NaN",
+    "subdescription": "NaN",
+    "information": "NaN",
+    "audio":"assets/audios/ponto_6_sem_poemas_EN.mp3",
+    "audioExplicit":"assets/audios/ponto_6_EN.mp3"
+  },
+  {
+    "id": 7,
+    "point" : "Point 7",
+    "titulo": "The Legislative Branch and the Construction of Racism – Pelourinho",
+    "imagem": "assets/images/home/image_7.webp",
+    "imagem_info":[
+      "assets/images/info/point_7/image_1.webp",
+      "assets/images/info/point_7/image_2.webp"
+    ],
+    "description": "NaN",
+    "subdescription": "NaN",
+    "information": "NaN",
+    "audio":"assets/audios/ponto_7_EN.mp3"
+  },
+  {
+    "id": 8,
+    "point" : "Point 8",
+    "titulo": "Black People in Artists’ Representations – Workshop by Jorge Afonso",
+    "imagem": "assets/images/home/image_8.webp",
+    "imagem_info":["assets/images/info/image_8.webp"],
+    "description": "NaN",
+    "subdescription": "NaN",
+    "information": "NaN",
+    "audio":"assets/audios/ponto_8_EN.mp3"
+  },
+  {
+    "id": 9,
+    "point" : "Point 9",
+    "titulo": "Black people in the works of artists from Setúbal – Morgado de Setúbal",
+    "imagem": "assets/images/home/image_9.webp",
+    "imagem_info":[
+      "assets/images/info/point_9/image_1.webp",
+      "assets/images/info/point_9/image_2.webp"
+    ],
+    "description": "NaN",
+    "subdescription": "NaN",
+    "information": "NaN",
+    "audio":"assets/audios/ponto_9_EN.mp3"
+  }
+]

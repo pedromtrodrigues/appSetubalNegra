@@ -1,0 +1,81 @@
+{
+  "hero": {
+    "botao": "Start Visit",
+    "descricao": "For a more immersive experience, we recommend using headphones."
+  },
+  "header": {
+    "fechar": "Close"
+  },
+  "feedback": {
+    "opiniao": "Opinion",
+    "descricao": "Integer venenatis ipsum eu metus dapibus scelerisque.",
+    "texto": "Integer venenatis ipsum eu metus dapibus scelerisque. Suspendisse id suscipit ipsum. Maecenas eget lorem urna. Aliquam accumsan scelerisque nisl ac ullamcorper. Aenean condimentum erat quis urna consequat, in dictum ante dignissim. Sed orci ipsum, congue sit amet porttitor ut, sodales vel justo. Phasellus auctor tellus sapien, vel egestas ligula luctus eget. Maecenas eget scelerisque arcu, id tincidunt nibh."
+  },
+  "about": {
+    "descricao": "Venenatis ipsum eu metus dapibus scelerisque. Suspendisse id suscipit ipsum. Maecenas eget lorem urna. Aliquam accumsan scelerisque nisl ac ullamcorper. Aenean condimentum erat quis urna consequat, in dictum ante dignissim. Sed orci ipsum , congue sit amet porttitor ut, sodales vel justo.",
+    "botao": "Start Visit"
+  },
+  "aboutText": {
+    "sobre": "About",
+    "titulo": "Integer venenatis ipsum eu metus dapibus scelerisque.",
+    "descricao": "Integer venenatis ipsum eu metus dapibus scelerisque. Suspendisse id suscipit ipsum. Maecenas eget lorem urna. Aliquam accumsan scelerisque nisl ac ullamcorper. Aenean condimentum erat quis urna consequat, in dictum ante dignissim. Sed orci ipsum, congue sit amet porttitor ut, sodales vel justo. Phasellus auctor tellus sapien, vel egestas ligula luctus eget. Maecenas eget scelerisque arcu, id tincidunt nibh.",
+    "folheto": "Brochure",
+    "artigo": "Article",
+    "capitulo": "Chapter"
+  },
+  "gridSection": {
+    "text": "Integer venenatis ipsum eu metus dapibus scelerisque. Suspendisse id suscipit ipsum. Maecenas eget lorem urna. Aliquam accumsan scelerisque nisl ac ullamcorper.",
+    "anterior": "Previous",
+    "proximo": "Next",
+    "de": "of"
+  },
+  "form": {
+    "escala": "On a scale of 1 to 5, how much did this script make you reflect on the ethnic and racial diversity of your own origins?",
+    "comentario": "Leave a comment or suggestion you'd like to make:",
+    "submeter": "Submit"
+  },
+  "popup": {
+    "opiniao": "Your opinion has been successfully submitted!",
+    "obrigado": "Thank you!",
+    "fechar": "Close"
+  },
+  "infoCard": {
+    "pontoAnterior": "Previous point",
+    "proximoPonto": "Next point",
+    "anterior": "Previous",
+    "proximo": "Next",
+    "versaoExplicita": "Explicit Version"
+  },
+  "credits": {
+    "titulo": "Credits",
+    "dataPublicacao": "Date of publication",
+    "dataValor": "21st of March 2026 – International Day for the Elimination of Racial Discrimination",
+    "items": [
+      { "label": "Title", "valor": "Black Setúbal" },
+      { "label": "Theme", "valor": "The Black Presence in the City of Setúbal (15th–18th Centuries)" },
+      { "label": "Authorship and coordination", "valor": "Ana Alcântara, Cristina Roldão, Nuno Coelho, Rafaela Rodrigues" },
+      { "label": "Main narration", "valor": "Raquel Lima" },
+      { "label": "Secondary narration", "valor": "Emanuel Botelho" },
+      { "label": "Special participation", "valor": "Mamadou Ba" },
+      { "label": "Music authorship", "valor": "Nome #1, Nome #2, Nome #3, Nome #4, Nome #5, Nome #6, Nome #7, Nome #8, Nome #9" },
+      { "label": "Research", "valor": "Ana Alcântara e Cristina Roldão" },
+      { "label": "Script", "valor": "Nuno Coelho" },
+      { "label": "Design", "valor": "Rafaela Rodrigues" },
+      { "label": "Programming", "valor": "Pedro Rodrigues" },
+      { "label": "Production", "valor": "RAMPA Cultural Association" },
+      { "label": "Partnership", "valor": "School of Education of the Polytechnic University of Setúbal (ESE/IPS)" },
+      { "label": "Property", "valor": "Setúbal Municipality" },
+      { "label": "Acknowledgements", "valor": "Nome, Nome, Nome" }
+    ]
+  },
+  "footer": {
+    "termos": "Terms and Conditions",
+    "privacidade": "Privacy Policies",
+    "cookies": "Cookie Policy",
+    "nav": {
+      "about": "About",
+      "credits": "Credits",
+      "feedback": "Opinion"
+    }
+  }
+}

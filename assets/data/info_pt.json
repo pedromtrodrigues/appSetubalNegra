@@ -3,8 +3,8 @@
     "id": 1,
     "point" : "Ponto 1",
     "titulo": "Setúbal e o tráfico transatlântico de pessoas escravizadas",
-    "imagem": "assets/images/home/image_1.png",
-    "imagem_info": ["assets/images/info/image_1.png"],
+    "imagem": "assets/images/home/image_1.webp",
+    "imagem_info": ["assets/images/info/image_1.webp"],
     "description": "Casa da alfândega",
     "subdescription": "(atual Biblioteca Municipal, av. Luísa Todi/rua da Velha Alfândega)",
     "information": "Venenatis ipsum eu metus dapibus scelerisque. Suspendisse id suscipit ipsum. Maecenas eget lorem urna. Aliquam accumsan scelerisque nisl ac ullamcorper. Aenean condimentum erat quis urna consequat, in dictum ante dignissim. Sed orci ipsum, congue sit amet porttitor ut, sodales vel justo.",
@@ -14,8 +14,8 @@
     "id": 2,
     "point" : "Ponto 2",
     "titulo": "Conversões geopolíticas – Um príncipe wolof",
-    "imagem": "assets/images/home/image_2.png",
-    "imagem_info":["assets/images/info/image_2.png"],
+    "imagem": "assets/images/home/image_2.webp",
+    "imagem_info":["assets/images/info/image_2.webp"],
     "description": "NaN",
     "subdescription": "NaN",
     "information": "NaN",
@@ -25,11 +25,11 @@
     "id": 3,
     "point" : "Ponto 3",
     "titulo": "A diversidade de profissões e posições na população escravizada – As aguadeiras",
-    "imagem": "assets/images/home/image_3.png",
+    "imagem": "assets/images/home/image_3.webp",
     "imagem_info":[
-      "assets/images/info/point_3/image_1.png",
-      "assets/images/info/point_3/image_2.png",
-      "assets/images/info/point_3/image_3.png"
+      "assets/images/info/point_3/image_1.webp",
+      "assets/images/info/point_3/image_2.webp",
+      "assets/images/info/point_3/image_3.webp"
     ],
     "description": "NaN",
     "subdescription": "NaN",
@@ -40,8 +40,8 @@
     "id": 4,
     "point" : "Ponto 4",
     "titulo": "A diversidade de profissões e posições na população escravizada – Os operários",
-    "imagem": "assets/images/home/image_4.png",
-    "imagem_info":["assets/images/info/image_4.png"],
+    "imagem": "assets/images/home/image_4.webp",
+    "imagem_info":["assets/images/info/image_4.webp"],
     "description": "NaN",
     "subdescription": "NaN",
     "information": "NaN",
@@ -51,10 +51,10 @@
     "id": 5,
     "point" : "Ponto 5",
     "titulo": "Santos negros, Confrarias e Irmandades negras em Setúbal",
-    "imagem": "assets/images/home/image_5.png",
+    "imagem": "assets/images/home/image_5.webp",
     "imagem_info":[
-      "assets/images/info/point_5/image_1.png",
-      "assets/images/info/point_5/image_2.png"
+      "assets/images/info/point_5/image_1.webp",
+      "assets/images/info/point_5/image_2.webp"
     ],
     "description": "NaN",
     "subdescription": "NaN",
@@ -65,10 +65,10 @@
     "id": 6,
     "point" : "Ponto 6",
     "titulo": "O negro nas representações de artistas setubalenses – Bocage",
-    "imagem": "assets/images/home/image_6.png",
+    "imagem": "assets/images/home/image_6.webp",
     "imagem_info":[
-      "assets/images/info/point_6/image_1.png",
-      "assets/images/info/point_6/image_2.png"
+      "assets/images/info/point_6/image_1.webp",
+      "assets/images/info/point_6/image_2.webp"
     ],
     "description": "NaN",
     "subdescription": "NaN",
@@ -80,10 +80,10 @@
     "id": 7,
     "point" : "Ponto 7",
     "titulo": "O poder legislativo e a construção do Racismo – Pelourinho",
-    "imagem": "assets/images/home/image_7.png",
+    "imagem": "assets/images/home/image_7.webp",
     "imagem_info":[
-      "assets/images/info/point_7/image_1.png",
-      "assets/images/info/point_7/image_2.png"
+      "assets/images/info/point_7/image_1.webp",
+      "assets/images/info/point_7/image_2.webp"
     ],
     "description": "NaN",
     "subdescription": "NaN",
@@ -94,8 +94,8 @@
     "id": 8,
     "point" : "Ponto 8",
     "titulo": "O negro nas representações de artistas – Oficina de Jorge Afonso",
-    "imagem": "assets/images/home/image_8.png",
-    "imagem_info":["assets/images/info/image_8.png"],
+    "imagem": "assets/images/home/image_8.webp",
+    "imagem_info":["assets/images/info/image_8.webp"],
     "description": "NaN",
     "subdescription": "NaN",
     "information": "NaN",
@@ -105,10 +105,10 @@
     "id": 9,
     "point" : "Ponto 9",
     "titulo": "O negro nas representações de artistas setubalenses – Morgado de Setúbal",
-    "imagem": "assets/images/home/image_9.png",
+    "imagem": "assets/images/home/image_9.webp",
     "imagem_info":[
-      "assets/images/info/point_9/image_1.png",
-      "assets/images/info/point_9/image_2.png"
+      "assets/images/info/point_9/image_1.webp",
+      "assets/images/info/point_9/image_2.webp"
     ],
     "description": "NaN",
     "subdescription": "NaN",
