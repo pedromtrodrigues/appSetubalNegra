@@ -73,8 +73,8 @@
     "description": "NaN",
     "subdescription": "NaN",
     "information": "NaN",
-    "audio":"assets/audios/ponto_6_sem_poemas_EN.mp3",
-    "audioExplicit":"assets/audios/ponto_6_EN.mp3"
+    "audio":"assets/audios/ponto_6_EN.mp3",
+    "audioExplicit":"assets/audios/ponto_6_EN_EX.mp3"
   },
   {
     "id": 7,
