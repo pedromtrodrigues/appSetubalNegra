@@ -114,5 +114,19 @@
     "subdescription": "NaN",
     "information": "NaN",
     "audio":"assets/audios/ponto_9_PT.mp3"
+  },
+  {
+    "id": 10,
+    "point" : "Ponto 10",
+    "titulo": "Passadiços Aveiro",
+    "imagem": "assets/images/home/image_9.webp",
+    "imagem_info":[
+      "assets/images/info/point_9/image_1.webp",
+      "assets/images/info/point_9/image_2.webp"
+    ],
+    "description": "NaN",
+    "subdescription": "NaN",
+    "information": "NaN",
+    "audio":"assets/audios/ponto_9_PT.mp3"
   }
 ]
